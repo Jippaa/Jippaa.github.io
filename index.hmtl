@@ -1,8 +1,12 @@
 <html>
-<link rel="stylesheet" href="mystyle.css">
-div {
-  backgroud-color: #450;
-  opacity: 0.3;
+  <head>
+    <title>Goede morgen</title>
+
+    <link rel="stylesheet" href="mystyle.css">
+      div {
+      backgroud-color: #450;
+      opacity: 0.3;
  }
+  </head>
 
 </html>
