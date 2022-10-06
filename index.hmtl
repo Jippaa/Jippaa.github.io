@@ -2,7 +2,7 @@
   <head>
     <title>Goede morgen</title>
 
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="./style.css">
       div {
       backgroud-color: #450;
       opacity: 0.3;
